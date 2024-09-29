@@ -36,7 +36,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/DimkKozhem/Skripka_CP
    ```
    
 2. Установите необходимые зависимости:
