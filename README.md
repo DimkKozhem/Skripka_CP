@@ -98,6 +98,8 @@
 ## Архитектура ##
 ![architecture](media/arc.png)
 
+Описание проекта:
+[ссылка](https://docs.google.com/document/d/1PObp_c8v3EiTSDcwLB6HeIigxFOA_0OPMjzM22FC2zw/edit)
 
 ## Как запустить проект
 
