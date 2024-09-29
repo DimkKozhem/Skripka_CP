@@ -118,7 +118,6 @@
 
 - Python 3.x
 - SentenceTransformer
-- XLM-Roberta
 - CatBoost
 - pandas, numpy, scikit-learn
 
