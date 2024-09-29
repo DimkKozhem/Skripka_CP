@@ -29,14 +29,14 @@
 - `SentenceTransformer.ipynb`: модель для генерации эмбеддингов видео на основе названий с использованием модели `intfloat/multilingual-e5-small`.
 - `videotitle_baseline_v2.ipynb`: обучение линейных моделей для предсказания пола и возраста на основе эмбеддингов от **XLM-Roberta**.
 - `baseline_v6.ipynb`: основной файл для обучения финальных моделей с использованием CatBoost для предсказания пола и возраста.
-- Результаты моделей хранятся в файлах `video_info_v2_emb_E5.parquet`, `cv_TRAIN_category_users_df.csv`, `cv_TRAIN_title_users_df.csv`, ```[video_info_v2_emb_E5.parque](https://disk.yandex.ru/d/z-Xm4qhGauQCFA)``` и других.
+- Результаты моделей хранятся в файлах `video_info_v2_emb_E5.parquet`, `cv_TRAIN_category_users_df.csv`, `cv_TRAIN_title_users_df.csv`, [`video_info_v2_emb_E5.parque`](https://disk.yandex.ru/d/z-Xm4qhGauQCFA) и других.
 
 
 ## Как запустить проект
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/your-repo-name.git](https://github.com/DimkKozhem/Skripka_CP)
+   git clone https://github.com/your-repo-name.git
    ```
    
 2. Установите необходимые зависимости:
@@ -62,3 +62,5 @@
 ## Лицензия
 
 Проект распространяется под лицензией MIT.
+
+
